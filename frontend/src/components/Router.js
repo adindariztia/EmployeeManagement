@@ -28,6 +28,11 @@ export default function Router(props) {
                         <RequireToken>
                             <Employee />
                         </RequireToken>} />
+                        {/* <Route path="/register-employee" 
+                        element={
+                        <RequireToken>
+                            <RegisterEmployee />
+                        </RequireToken>} /> */}
                     </Route>
                 </Routes>
             </BrowserRouter>
