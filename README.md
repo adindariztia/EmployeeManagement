@@ -2,7 +2,7 @@
 
 ## Description
 
-EmployeeManagement is a web application built using Python FastAPI, React.js, and PostgreSQL. It serves as a management system for handling employee-related tasks.
+EmployeeManagement is a web application built using Python FastAPI, React.js, and PostgreSQL. It serves as a management system for handling CRUD operations on employee profile.
 
 ## Backend Installation and Setup
 
